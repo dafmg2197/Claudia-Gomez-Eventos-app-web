@@ -1,7 +1,14 @@
 # Claudia-Gomez-Eventos-app-web
 Proyecto para cotizar, vender, registrar pagos, etc., para eventos de mamá.
+Plataforma web de cotización y reserva de servicios para eventos, con carrito de compras y pagos en línea (PSE).
 
 --------------------------------------------------------------------------------------------------------
+🎯 Objetivo general
+
+Facilitar la cotización y contratación de servicios para eventos, permitiendo al cliente elegir sus servicios, personalizarlos, ver el costo total y realizar el pago directamente desde la web.
+
+--------------------------------------------------------------------------------------------------------
+
 🧩 Stack Tecnológico
 
 Backend: Django (Python)
