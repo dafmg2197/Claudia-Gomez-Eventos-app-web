@@ -1,0 +1,25 @@
+🤖Funcionalidades principales:
+
+Para los clientes (usuarios finales):
+
+  Ver catálogo de servicios por categoría.
+  
+  Agregar servicios al carrito (por cantidad o tiempo).
+  
+  Generar una cotización automática (con total).
+  
+  Enviar la cotización o realizar pago vía PSE.
+  
+  Recibir confirmación vía pantalla y/o WhatsApp.
+
+👩🏽‍💻Para el administrador (tu mamá):
+
+  Panel de administración con login.
+  
+  Crear, editar o eliminar servicios y precios.
+  
+  Revisar pedidos/cotizaciones.
+  
+  Marcar cotizaciones como “en curso” o “finalizadas”.
+  
+  Exportar cotizaciones o pedidos a PDF/Excel.
